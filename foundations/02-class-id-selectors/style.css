@@ -6,3 +6,7 @@ p {
 .font-size {
     font-size: 32px;
 }
+
+#odd {
+   color: blue 
+}
