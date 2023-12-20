@@ -1,13 +1,18 @@
-p {
-    color: black;
-    background-color: pink;
+.ungleich {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.font-size {
-    font-size: 32px;
+.size {
+  font-size: 24px;
 }
 
-#odd {
-   color: blue 
+#zweites-element {
+  color: #0000ff;
+  font-size: 36px;
 }
-#test
+
+#viertes-element {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bold;
+}
