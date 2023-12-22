@@ -5,7 +5,8 @@
 .andere {
   background-color:yellow;
 }
-.selbe {
+.diese,
+.andere {
   font-size: 28px;
-  font-style: sans-serif;
+  font-family: Helvetica, "Times New Roman", sans-serif;
 }
